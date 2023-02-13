@@ -1,0 +1,11 @@
+.line{
+    height: 8px;
+    width: 300%;
+    background-color: aqua;
+    margin: auto;
+}
+body{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
